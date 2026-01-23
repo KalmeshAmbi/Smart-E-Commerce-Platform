@@ -3,6 +3,8 @@ package com.example.user_service.dto;
 import java.time.LocalDate;
 import java.util.List;
 
+import com.example.address_service.dto.AddressDto;
+
 import lombok.Data;
 @Data
 public class UserDto {
@@ -64,6 +66,12 @@ public class UserDto {
     private int age;
     // DTO version of Address
     private String role;
-	
+    public List<AddressDto> getAddresses() {
+		return addresses;
+	}
+	public void setAddresses(List<AddressDto> addresses) {
+		this.addresses = addresses;
+	}
+	private List<AddressDto> addresses;
 
 }

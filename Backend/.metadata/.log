@@ -4482,3 +4482,2028 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:07:57.271
 !MESSAGE 13:07:57.267 [pool-3-thread-33] INFO  o.s.i.v.c.j.JdtLsJavadocProvider - Fetching javadoc Lcom/mysql/cj/jdbc/Driver;
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:10.423
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:10.424
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:10.424
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:10.424
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:10.557
+!MESSAGE 13:08:00.968 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:10.557
+!MESSAGE 13:58:10.509 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: user-service - no. of files: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:11.016
+!MESSAGE 13:58:11.004 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 392
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:11.920
+!MESSAGE 13:58:11.907 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/target/classes/META-INF/maven/com.example/user-service/pom.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:11.931
+!MESSAGE 13:58:11.921 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: user-service - no. of files: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:12.045
+!MESSAGE 13:58:12.044 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files used cached data: user-service - no. of cached symbols retrieved: 16
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.074
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.074
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.074
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.075
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:12.129
+!MESSAGE 13:58:12.049 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 392
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:12.141
+!MESSAGE 13:58:12.138 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: user-service took ms: 9
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:12.184
+!MESSAGE 13:58:12.183 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files used cached data: user-service - no. of cached symbols retrieved: 16
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.503
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.503
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.504
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:12.504
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:12.523
+!MESSAGE 13:58:12.185 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 392
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.162
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.163
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.163
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.163
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:21.213
+!MESSAGE 13:58:12.636 [Project-Reconciler-4] INFO  o.s.i.v.b.v.BootVersionValidationEngine - validating Spring Boot version on project: user-service done in 1ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.486
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.486
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.486
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:58:21.486
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:58:21.528
+!MESSAGE 13:58:21.527 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - additional reconciling with complete index triggered for: [D:\study\Projectes\Smart-E-Commerce-Platform\Backend\user-service\src\main\java\com\example\user_service\controller\UserController.java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:59:50.209
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:59:50.210
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:59:50.210
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 13:59:50.210
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:50.259
+!MESSAGE 13:59:50.259 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - additional reconciling with complete index triggered for: [D:\study\Projectes\Smart-E-Commerce-Platform\Backend\user-service\src\main\java\com\example\user_service\controller\UserController.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:50.324
+!MESSAGE 13:59:50.322 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:50.438
+!MESSAGE 13:59:50.374 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:50.438
+!MESSAGE 13:59:50.375 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:50.440
+!MESSAGE 13:59:50.439 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:52.116
+!MESSAGE 13:59:50.824 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:55.934
+!MESSAGE 13:59:55.878 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:55.934
+!MESSAGE 13:59:55.878 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Creating name env for project 'user-service'
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:58.817
+!MESSAGE 13:59:56.175 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:58.818
+!MESSAGE 13:59:58.812 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:59.322
+!MESSAGE 13:59:58.903 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:59.323
+!MESSAGE 13:59:59.321 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:59.328
+!MESSAGE 13:59:59.326 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:59.328
+!MESSAGE 13:59:59.326 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:59.329
+!MESSAGE 13:59:59.326 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 13:59:59.329
+!MESSAGE 13:59:59.326 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:00.976
+!MESSAGE 13:59:59.407 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:01.161
+!MESSAGE 14:00:01.161 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:01.170
+!MESSAGE 14:00:01.168 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:05.016
+!MESSAGE 14:00:01.170 [pool-3-thread-35] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 10ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:05.836
+!MESSAGE 14:00:05.336 [pool-3-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:11.524
+!MESSAGE 14:00:11.522 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:11.553
+!MESSAGE 14:00:11.552 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:11.640
+!MESSAGE 14:00:11.638 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:11.644
+!MESSAGE 14:00:11.643 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:14.771
+!MESSAGE 14:00:12.022 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:14.899
+!MESSAGE 14:00:14.772 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:14.899
+!MESSAGE 14:00:14.899 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:14.899
+!MESSAGE 14:00:14.899 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.519
+!MESSAGE 14:00:14.901 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.519
+!MESSAGE 14:00:15.897 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.644
+!MESSAGE 14:00:17.643 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 6
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.644
+!MESSAGE 14:00:17.643 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.700
+!MESSAGE 14:00:17.700 [pool-3-thread-37] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.700
+!MESSAGE 14:00:17.700 [pool-3-thread-37] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:17.700
+!MESSAGE 14:00:17.700 [pool-3-thread-37] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:19.117
+!MESSAGE 14:00:18.026 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:19.120
+!MESSAGE 14:00:19.119 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:20.142
+!MESSAGE 14:00:19.621 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:20.150
+!MESSAGE 14:00:20.149 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:28.929
+!MESSAGE 14:00:20.151 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:28.930
+!MESSAGE 14:00:26.306 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:28.930
+!MESSAGE 14:00:26.306 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:30.490
+!MESSAGE 14:00:29.968 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:30.490
+!MESSAGE 14:00:30.489 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:30.492
+!MESSAGE 14:00:30.492 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:33.559
+!MESSAGE 14:00:30.495 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:33.569
+!MESSAGE 14:00:33.567 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 18
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:33.569
+!MESSAGE 14:00:33.567 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:45.334
+!MESSAGE 14:00:34.076 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:46.279
+!MESSAGE 14:00:46.278 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:46.786
+!MESSAGE 14:00:46.721 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:46.791
+!MESSAGE 14:00:46.791 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:47.286
+!MESSAGE 14:00:47.285 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:50.765
+!MESSAGE 14:00:47.289 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:50.765
+!MESSAGE 14:00:50.765 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:50.765
+!MESSAGE 14:00:50.765 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:50.766
+!MESSAGE 14:00:50.765 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:50.766
+!MESSAGE 14:00:50.765 [pool-3-thread-34] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:54.905
+!MESSAGE 14:00:54.902 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:00:58.165
+!MESSAGE 14:00:54.910 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:01.000
+!MESSAGE 14:00:58.654 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:01.001
+!MESSAGE 14:01:00.786 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:01.002
+!MESSAGE 14:01:00.792 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:01.002
+!MESSAGE 14:01:00.792 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:01.505
+!MESSAGE 14:01:01.304 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:04.435
+!MESSAGE 14:01:04.435 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 34
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:04.479
+!MESSAGE 14:01:04.441 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:27.514
+!MESSAGE 14:01:09.685 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:27.515
+!MESSAGE 14:01:09.685 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:27.515
+!MESSAGE 14:01:09.685 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:27.515
+!MESSAGE 14:01:09.685 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:27.657
+!MESSAGE 14:01:27.591 [pool-3-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:39.882
+!MESSAGE 14:01:28.016 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:39.883
+!MESSAGE 14:01:39.882 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:39.883
+!MESSAGE 14:01:39.882 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:39.883
+!MESSAGE 14:01:39.882 [pool-3-thread-38] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:01:48.538
+!MESSAGE 14:01:48.538 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2026-01-23 14:02:01.484
+!MESSAGE No search provider was registered. Tasks search is not available.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:18.323
+!MESSAGE 14:01:48.541 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:18.966
+!MESSAGE 14:02:18.963 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:18.968
+!MESSAGE 14:02:18.968 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:19.316
+!MESSAGE 14:02:19.315 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:33.971
+!MESSAGE 14:02:25.861 [pool-3-thread-38] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:33.978
+!MESSAGE 14:02:33.977 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:33.980
+!MESSAGE 14:02:33.980 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:02:52.327
+!MESSAGE 14:02:51.934 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:05.644
+!MESSAGE 14:03:05.641 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:05.652
+!MESSAGE 14:03:05.650 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:05.675
+!MESSAGE 14:03:05.674 [pool-5-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:05.729
+!MESSAGE 14:03:05.728 [pool-5-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:05.729
+!MESSAGE 14:03:05.728 [pool-3-thread-38] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:05.730
+!MESSAGE 14:03:05.728 [pool-3-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.037
+!MESSAGE 14:03:05.736 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.038
+!MESSAGE 14:03:06.037 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.151
+!MESSAGE 14:03:06.127 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.151
+!MESSAGE 14:03:06.139 [pool-3-thread-40] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.152
+!MESSAGE 14:03:06.141 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.152
+!MESSAGE 14:03:06.150 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java done in 4ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:03:06.190
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:03:06.191
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:03:06.191
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:03:06.191
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.319
+!MESSAGE 14:03:06.212 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/target/classes/META-INF/maven/com.example/user-service/pom.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.585
+!MESSAGE 14:03:06.584 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.724
+!MESSAGE 14:03:06.587 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:06.725
+!MESSAGE 14:03:06.725 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:14.338
+!MESSAGE 14:03:14.338 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 57
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:14.448
+!MESSAGE 14:03:14.447 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:21.023
+!MESSAGE 14:03:14.846 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:21.068
+!MESSAGE 14:03:21.068 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:21.527
+!MESSAGE 14:03:21.073 [pool-5-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:21.528
+!MESSAGE 14:03:21.073 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:21.528
+!MESSAGE 14:03:21.526 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:21.529
+!MESSAGE 14:03:21.526 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:36.073
+!MESSAGE 14:03:36.072 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:03:36.073
+!MESSAGE 14:03:36.072 [pool-3-thread-41] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:18.842
+!MESSAGE 14:05:18.838 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:18.847
+!MESSAGE 14:05:18.846 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:52.935
+!MESSAGE 14:05:52.934 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:52.980
+!MESSAGE 14:05:52.979 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:52.984
+!MESSAGE 14:05:52.984 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:53.009
+!MESSAGE 14:05:53.009 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:05:53.010
+!MESSAGE 14:05:53.009 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.174
+!MESSAGE 14:05:53.443 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.204
+!MESSAGE 14:06:27.177 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.204
+!MESSAGE 14:06:27.204 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.205
+!MESSAGE 14:06:27.204 [pool-3-thread-45] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.247
+!MESSAGE 14:06:27.245 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.248
+!MESSAGE 14:06:27.246 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:06:27.250
+!MESSAGE 14:06:27.249 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:07:25.844
+!MESSAGE 14:06:27.674 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:07:25.844
+!MESSAGE 14:07:25.189 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 2
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:07:25.845
+!MESSAGE 14:07:25.827 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:07:29.396
+!MESSAGE 14:07:27.688 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:07:29.397
+!MESSAGE 14:07:27.688 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:07:29.397
+!MESSAGE 14:07:27.688 [pool-3-thread-46] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:21.656
+!MESSAGE 14:07:29.423 [pool-5-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:37.725
+!MESSAGE 14:08:37.575 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:37.746
+!MESSAGE 14:08:37.746 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:37.748
+!MESSAGE 14:08:37.748 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:38.193
+!MESSAGE 14:08:38.192 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:40.936
+!MESSAGE 14:08:40.936 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:41.583
+!MESSAGE 14:08:41.093 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:41.583
+!MESSAGE 14:08:41.582 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 8
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:41.584
+!MESSAGE 14:08:41.582 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:42.247
+!MESSAGE 14:08:41.729 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:42.247
+!MESSAGE 14:08:41.780 [pool-3-thread-46] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:42.878
+!MESSAGE 14:08:42.489 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:42.878
+!MESSAGE 14:08:42.875 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:42.878
+!MESSAGE 14:08:42.876 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:43.383
+!MESSAGE 14:08:43.377 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:43.864
+!MESSAGE 14:08:43.863 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:43.864
+!MESSAGE 14:08:43.863 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:50.867
+!MESSAGE 14:08:44.010 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:08:50.867
+!MESSAGE 14:08:50.866 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:11.668
+!MESSAGE 14:09:08.063 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:11.710
+!MESSAGE 14:09:11.691 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:11.710
+!MESSAGE 14:09:11.709 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:14.546
+!MESSAGE 14:09:14.545 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:15.078
+!MESSAGE 14:09:15.074 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:15.079
+!MESSAGE 14:09:15.078 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:18.434
+!MESSAGE 14:09:15.428 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:19.278
+!MESSAGE 14:09:18.436 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:19.375
+!MESSAGE 14:09:19.370 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:19.759
+!MESSAGE 14:09:19.758 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 21
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:19.905
+!MESSAGE 14:09:19.890 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.051
+!MESSAGE 14:09:20.416 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.051
+!MESSAGE 14:09:21.378 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.051
+!MESSAGE 14:09:21.825 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.052
+!MESSAGE 14:09:39.050 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 24
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.052
+!MESSAGE 14:09:39.050 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.052
+!MESSAGE 14:09:39.050 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.092
+!MESSAGE 14:09:39.075 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:39.092
+!MESSAGE 14:09:39.092 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:48.753
+!MESSAGE 14:09:39.557 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:48.754
+!MESSAGE 14:09:48.752 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 25
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:48.754
+!MESSAGE 14:09:48.752 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:48.754
+!MESSAGE 14:09:48.753 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:48.776
+!MESSAGE 14:09:48.775 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:48.795
+!MESSAGE 14:09:48.794 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:49.255
+!MESSAGE 14:09:49.254 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:55.634
+!MESSAGE 14:09:54.782 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:55.657
+!MESSAGE 14:09:55.657 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:55.658
+!MESSAGE 14:09:55.657 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:55.662
+!MESSAGE 14:09:55.661 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:55.662
+!MESSAGE 14:09:55.661 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:55.883
+!MESSAGE 14:09:55.883 [pool-3-thread-46] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 2 completions in 250ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:56.160
+!MESSAGE 14:09:55.985 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:56.258
+!MESSAGE 14:09:56.183 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:56.676
+!MESSAGE 14:09:56.675 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:56.676
+!MESSAGE 14:09:56.675 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:56.676
+!MESSAGE 14:09:56.675 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:56.676
+!MESSAGE 14:09:56.675 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:09:57.478
+!MESSAGE 14:09:56.763 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:02.401
+!MESSAGE 14:10:02.401 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:02.422
+!MESSAGE 14:10:02.421 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:02.422
+!MESSAGE 14:10:02.421 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:02.425
+!MESSAGE 14:10:02.424 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:02.425
+!MESSAGE 14:10:02.424 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:02.971
+!MESSAGE 14:10:02.812 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:04.104
+!MESSAGE 14:10:04.028 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:04.105
+!MESSAGE 14:10:04.028 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:04.105
+!MESSAGE 14:10:04.028 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:04.542
+!MESSAGE 14:10:04.528 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:04.611
+!MESSAGE 14:10:04.610 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:04.611
+!MESSAGE 14:10:04.610 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:08.766
+!MESSAGE 14:10:08.405 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:08.917
+!MESSAGE 14:10:08.898 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:15.781
+!MESSAGE 14:10:08.919 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:15.781
+!MESSAGE 14:10:15.780 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:15.781
+!MESSAGE 14:10:15.780 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:15.782
+!MESSAGE 14:10:15.782 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:25.962
+!MESSAGE 14:10:16.156 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:25.963
+!MESSAGE 14:10:16.156 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:26.455
+!MESSAGE 14:10:25.965 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:26.680
+!MESSAGE 14:10:26.473 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:28.980
+!MESSAGE 14:10:28.978 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:29.539
+!MESSAGE 14:10:29.417 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:29.673
+!MESSAGE 14:10:29.658 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:30.042
+!MESSAGE 14:10:29.676 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:30.043
+!MESSAGE 14:10:30.042 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:31.166
+!MESSAGE 14:10:30.626 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:31.202
+!MESSAGE 14:10:31.202 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:31.218
+!MESSAGE 14:10:31.217 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.669
+!MESSAGE 14:10:31.221 [pool-3-thread-44] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.669
+!MESSAGE 14:10:31.669 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.672
+!MESSAGE 14:10:45.671 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.673
+!MESSAGE 14:10:45.672 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 64
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.673
+!MESSAGE 14:10:45.672 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.674
+!MESSAGE 14:10:45.674 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.675
+!MESSAGE 14:10:45.674 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 66
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.675
+!MESSAGE 14:10:45.674 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.676
+!MESSAGE 14:10:45.674 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.677
+!MESSAGE 14:10:45.676 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.677
+!MESSAGE 14:10:45.676 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 71
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:45.678
+!MESSAGE 14:10:45.676 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:51.373
+!MESSAGE 14:10:46.184 [pool-5-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:10:57.784
+!MESSAGE 14:10:51.476 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:35.464
+!MESSAGE 14:12:34.376 [pool-5-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:35.481
+!MESSAGE 14:12:35.481 [pool-3-thread-49] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:40.736
+!MESSAGE 14:12:40.736 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 74
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:40.736
+!MESSAGE 14:12:40.736 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:47.514
+!MESSAGE 14:12:40.736 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:47.514
+!MESSAGE 14:12:47.513 [pool-5-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:47.528
+!MESSAGE 14:12:47.527 [pool-5-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:12:51.923
+!MESSAGE 14:12:49.411 [pool-3-thread-50] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:38.648
+!MESSAGE 14:13:21.288 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:38.649
+!MESSAGE 14:13:38.640 [pool-3-thread-49] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:38.690
+!MESSAGE 14:13:38.690 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 2
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:38.693
+!MESSAGE 14:13:38.692 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 3
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:38.694
+!MESSAGE 14:13:38.693 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 10
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:39.195
+!MESSAGE 14:13:39.195 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:39.214
+!MESSAGE 14:13:39.202 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:39.214
+!MESSAGE 14:13:39.207 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:45.429
+!MESSAGE 14:13:45.427 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:45.433
+!MESSAGE 14:13:45.433 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:45.436
+!MESSAGE 14:13:45.435 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:45.454
+!MESSAGE 14:13:45.443 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:45.463
+!MESSAGE 14:13:45.463 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 32
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:48.213
+!MESSAGE 14:13:45.606 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:48.214
+!MESSAGE 14:13:45.965 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:48.234
+!MESSAGE 14:13:48.224 [pool-5-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:48.235
+!MESSAGE 14:13:48.224 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:13:48.235
+!MESSAGE 14:13:48.226 [pool-3-thread-50] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:12.178
+!MESSAGE 14:13:50.370 [pool-3-thread-51] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:12.204
+!MESSAGE 14:15:12.200 [pool-5-thread-16] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:12.205
+!MESSAGE 14:15:12.200 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:12.208
+!MESSAGE 14:15:12.205 [pool-3-thread-54] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:21.280
+!MESSAGE 14:15:21.278 [pool-3-thread-54] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:21.673
+!MESSAGE 14:15:21.673 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:25.663
+!MESSAGE 14:15:22.640 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:25.664
+!MESSAGE 14:15:25.663 [pool-3-thread-54] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:46.740
+!MESSAGE 14:15:26.112 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:46.740
+!MESSAGE 14:15:46.738 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:46.822
+!MESSAGE 14:15:46.812 [pool-5-thread-16] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:46.823
+!MESSAGE 14:15:46.819 [pool-3-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:15:47.241
+!MESSAGE 14:15:47.240 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:43.979
+!MESSAGE 14:17:43.969 [pool-5-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:54.526
+!MESSAGE 14:17:54.526 [pool-3-thread-55] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:17:54.678
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:17:54.679
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:17:54.680
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:17:54.680
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:54.716
+!MESSAGE 14:17:54.709 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [D:\study\Projectes\Smart-E-Commerce-Platform\Backend\user-service\src\main\java\com\example\user_service\dto\UserDto.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.234
+!MESSAGE 14:17:54.825 [ForkJoinPool.commonPool-worker-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.234
+!MESSAGE 14:17:55.223 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [D:\study\Projectes\Smart-E-Commerce-Platform\Backend\user-service\src\main\java\com\example\user_service\openFeignClient\AddressClient.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.243
+!MESSAGE 14:17:55.242 [pool-5-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.290
+!MESSAGE 14:17:55.289 [pool-5-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.295
+!MESSAGE 14:17:55.295 [pool-3-thread-56] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.296
+!MESSAGE 14:17:55.296 [pool-3-thread-55] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.309
+!MESSAGE 14:17:55.305 [pool-3-thread-56] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:17:55.310
+!MESSAGE 14:17:55.309 [pool-5-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.604
+!MESSAGE 14:17:55.496 [pool-14-thread-1] ERROR o.e.lsp4j.jsonrpc.RemoteEndpoint - Internal error: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.604
+!MESSAGE java.util.concurrent.CompletionException: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.605
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.605
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.606
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:768)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.606
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:756)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.606
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2241)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.606
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.606
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.607
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.607
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.607
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.607
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.608
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.609
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.610
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.610
+!MESSAGE 14:19:18.602 [pool-3-thread-60] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:18.610
+!MESSAGE 14:19:18.604 [pool-3-thread-60] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.533
+!MESSAGE 14:19:22.533 [pool-14-thread-1] ERROR o.e.lsp4j.jsonrpc.RemoteEndpoint - Internal error: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.534
+!MESSAGE java.util.concurrent.CompletionException: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.535
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.535
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.535
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:768)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.536
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:756)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.536
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2241)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.536
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.536
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.537
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.537
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.537
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.537
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.537
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.537
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.538
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.540
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.540
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:19:22.540
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.641
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.642
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:20:51.644
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:54.810
+!MESSAGE 14:21:54.807 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:56.599
+!MESSAGE 14:21:56.598 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 12
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:56.710
+!MESSAGE 14:21:56.710 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:56.710
+!MESSAGE 14:21:56.710 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:57.858
+!MESSAGE 14:21:57.857 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:58.450
+!MESSAGE 14:21:57.867 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:58.450
+!MESSAGE 14:21:58.450 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:58.913
+!MESSAGE 14:21:58.462 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:58.913
+!MESSAGE 14:21:58.854 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:59.075
+!MESSAGE 14:21:59.072 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:59.085
+!MESSAGE 14:21:59.085 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:21:59.581
+!MESSAGE 14:21:59.580 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.274
+!MESSAGE 14:22:01.273 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 18
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.274
+!MESSAGE 14:22:01.273 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.328
+!MESSAGE 14:22:01.319 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.328
+!MESSAGE 14:22:01.328 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.328
+!MESSAGE 14:22:01.328 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.779
+!MESSAGE 14:22:01.778 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:01.779
+!MESSAGE 14:22:01.778 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:47.990
+!MESSAGE 14:22:46.539 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:47.990
+!MESSAGE 14:22:46.540 [pool-3-thread-65] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:47.990
+!MESSAGE 14:22:46.540 [pool-3-thread-65] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:47.990
+!MESSAGE 14:22:47.987 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:47.990
+!MESSAGE 14:22:47.987 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:47.993
+!MESSAGE 14:22:47.993 [pool-3-thread-65] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:22:55.966
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:22:55.967
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:22:55.968
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:22:55.968
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:55.995
+!MESSAGE 14:22:55.862 [pool-3-thread-64] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.143
+!MESSAGE 14:22:56.076 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [D:\study\Projectes\Smart-E-Commerce-Platform\Backend\user-service\src\main\java\com\example\user_service\UserServiceApplication.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.547
+!MESSAGE 14:22:56.503 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.548
+!MESSAGE 14:22:56.547 [pool-5-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.552
+!MESSAGE 14:22:56.551 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.606
+!MESSAGE 14:22:56.605 [pool-14-thread-1] ERROR o.e.lsp4j.jsonrpc.RemoteEndpoint - Internal error: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.606
+!MESSAGE java.util.concurrent.CompletionException: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:768)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:756)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2241)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.607
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.608
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.608
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.608
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.608
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.608
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.608
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.609
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.610
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.610
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.610
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.610
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:22:56.610
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.513
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.514
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.514
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.514
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.514
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.514
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.514
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.515
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.516
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.516
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.516
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.516
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.516
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.516
+!MESSAGE ProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.517
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.517
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.517
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.517
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.517
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.518
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.518
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.518
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.518
+!MESSAGE 14:23:08.065 [pool-3-thread-65] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:17.518
+!MESSAGE 14:23:17.518 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:23:36.595
+!MESSAGE 14:23:36.595 [pool-3-thread-65] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:01.992
+!MESSAGE 14:24:01.986 [pool-5-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:09.659
+!MESSAGE 14:24:01.996 [pool-3-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:09.659
+!MESSAGE 14:24:09.646 [pool-5-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:09.659
+!MESSAGE 14:24:09.654 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:09.686
+!MESSAGE 14:24:09.686 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:09.703
+!MESSAGE 14:24:09.703 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/UserServiceApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:24:09.720
+!MESSAGE 14:24:09.717 [pool-5-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:15.190
+!MESSAGE 14:25:15.187 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:21.125
+!MESSAGE 14:25:20.758 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:21.544
+!MESSAGE 14:25:21.126 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:21.546
+!MESSAGE 14:25:21.536 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:21.546
+!MESSAGE 14:25:21.544 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:26.727
+!MESSAGE 14:25:21.722 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:26.733
+!MESSAGE 14:25:22.040 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:26.780
+!MESSAGE 14:25:26.778 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:29.461
+!MESSAGE 14:25:29.250 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:31.369
+!MESSAGE 14:25:31.248 [pool-5-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:31.369
+!MESSAGE 14:25:31.248 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:25:31.369
+!MESSAGE 14:25:31.368 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:22.285
+!MESSAGE 14:26:22.152 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:22.307
+!MESSAGE 14:26:22.307 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:22.307
+!MESSAGE 14:26:22.307 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:25.641
+!MESSAGE 14:26:25.534 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:26:25.759
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:26:25.760
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:26:25.760
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-23 14:26:25.760
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:25.880
+!MESSAGE 14:26:25.777 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/target/classes/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:26.328
+!MESSAGE 14:26:26.326 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:26.328
+!MESSAGE 14:26:26.328 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:34.766
+!MESSAGE 14:26:34.766 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:37.184
+!MESSAGE 14:26:37.183 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - start
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:37.185
+!MESSAGE 14:26:37.184 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Removing RemoteSpringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:61517/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=2776, processName=com.example.discovery_service.DiscoveryServiceApplication. projectName=discovery-service]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:37.185
+!MESSAGE 14:26:37.184 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - disconnect from process: service:jmx:rmi:///jndi/rmi://127.0.0.1:61517/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:37.186
+!MESSAGE 14:26:37.184 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Disconnect from process: service:jmx:rmi:///jndi/rmi://127.0.0.1:61517/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:37.186
+!MESSAGE 14:26:37.184 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.682
+!MESSAGE .springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorOverJMX.disconnect(SpringProcessConnectorOverJMX.java:205)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.682
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorService.lambda$scheduleDisconnect$5(SpringProcessConnectorService.java:200)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.683
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.683
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.683
+!MESSAGE 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.683
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.683
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.683
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE Caused by: java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:659)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:597)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.684
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:464)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.685
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:276)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.685
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.685
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:609)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.685
+!MESSAGE 	... 15 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.695
+!MESSAGE 14:26:42.689 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/entity/UserEntity.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.695
+!MESSAGE 14:26:42.693 [pool-5-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:42.695
+!MESSAGE 14:26:42.693 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/dto/UserDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.324
+!MESSAGE 14:26:42.721 [pool-5-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/service/UserServiceImp.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.325
+!MESSAGE 14:26:42.743 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/address-service/src/main/java/com/example/address_service/controller/AddressController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.325
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.325
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.325
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.326
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.326
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.326
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.327
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.327
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.327
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.328
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.328
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.328
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.329
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.329
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.329
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.329
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.329
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.329
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.330
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:26:47.330
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.459
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.460
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.460
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.460
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.462
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.462
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.462
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.462
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.463
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.463
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.463
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.464
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.464
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.464
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.465
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.466
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.467
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.468
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:07.469
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:12.689
+!MESSAGE 14:27:12.689 [pool-3-thread-67] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:12.694
+!MESSAGE 14:27:12.693 [pool-3-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:19.172
+!MESSAGE 14:27:19.171 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Removing RemoteSpringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:65294/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=3556, processName=com.example.discovery_service.DiscoveryServiceApplication. projectName=discovery-service]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:19.172
+!MESSAGE 14:27:19.171 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - disconnect from process: service:jmx:rmi:///jndi/rmi://127.0.0.1:65294/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:19.173
+!MESSAGE 14:27:19.171 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Disconnect from process: service:jmx:rmi:///jndi/rmi://127.0.0.1:65294/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:27:19.173
+!MESSAGE 14:27:19.171 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.332
+!MESSAGE .springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorOverJMX.disconnect(SpringProcessConnectorOverJMX.java:205)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.333
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorService.lambda$scheduleDisconnect$5(SpringProcessConnectorService.java:200)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.333
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.333
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.333
+!MESSAGE 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.334
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.334
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.335
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.336
+!MESSAGE Caused by: java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.336
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.336
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.336
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.336
+!MESSAGE 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.336
+!MESSAGE 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.337
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:659)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.337
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:597)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.337
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:464)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.337
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:276)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.337
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.338
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:609)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.338
+!MESSAGE 	... 15 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.427
+!MESSAGE 14:58:58.425 [pool-5-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-23 14:58:58.435
+!MESSAGE 14:58:58.433 [pool-3-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/study/Projectes/Smart-E-Commerce-Platform/Backend/user-service/src/main/java/com/example/user_service/openFeignClient/AddressClient.java

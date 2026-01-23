@@ -14,12 +14,15 @@ import org.springframework.web.bind.annotation.RequestBody;
 import com.example.user_service.dto.UserDto;
 import com.example.user_service.entity.UserEntity;
 import com.example.user_service.mapper.UserMapper;
+import com.example.user_service.openFeignClient.AddressClient;
 import com.example.user_service.repository.UserRepository;
 
 @Service
 public class UserServiceImp implements UserService {
    @Autowired
     private UserRepository userRepository;
+   @Autowired
+   private AddressClient addressClient;
 
 
     @Override
@@ -37,7 +40,12 @@ public class UserServiceImp implements UserService {
         UserEntity user = userRepository.findById(userId)
                 .orElseThrow(() -> new RuntimeException("User not found with id: " + userId));
 
-        return UserMapper.mapToUserDto(user);
+        UserDto userDto = UserMapper.mapToUserDto(user); 
+        userDto.setAddresses(
+                addressClient.getAddressesByUserId(userId)
+                );
+
+                return userDto; 
     }
 
     @Override
