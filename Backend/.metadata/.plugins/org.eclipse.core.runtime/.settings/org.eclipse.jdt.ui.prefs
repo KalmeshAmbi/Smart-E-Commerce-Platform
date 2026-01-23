@@ -1,3 +1,4 @@
+Refactoring.savealleditors=true
 content_assist_add_import=true
 content_assist_autoactivation=true
 content_assist_autoactivation_delay=0
@@ -13,7 +14,7 @@ content_assist_disable_completion_trigger_chars=false
 content_assist_fill_method_arguments=true
 content_assist_guess_method_arguments=true
 content_assist_insert_completion=false
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.example.address_service.entity.AddressEntity"><rhs name\="com.example.address_service.entity.AddressEntity"/></lhs></history>
 content_assist_number_of_computers=14
 content_assist_parameters_background=52,57,61
 content_assist_parameters_background,defaultValueBeforeOverriddenFromCSS=255,255,255
